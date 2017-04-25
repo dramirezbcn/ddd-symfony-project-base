@@ -1,2 +1,6 @@
-# ddd-symfony-project-base
-A Symfony 3 standard dockerized skeleton following DDD architecture.
+ddd-symfony-project-base
+====================
+
+An empty dockerized PHP 7 - Symfony 3 project. 
+
+
