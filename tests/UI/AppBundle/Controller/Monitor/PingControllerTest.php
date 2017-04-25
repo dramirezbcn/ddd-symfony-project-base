@@ -10,7 +10,6 @@ use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
  */
 class PingControllerTest extends WebTestCase
 {
-
     /**
      * @group unit
      */

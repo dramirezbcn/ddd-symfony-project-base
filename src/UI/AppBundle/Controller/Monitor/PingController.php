@@ -1,6 +1,6 @@
 <?php
 
-namespace Infrastructure\AppBundle\Controller\Monitor;
+namespace UI\AppBundle\Controller\Monitor;
 
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
